@@ -32,5 +32,4 @@ python --version            # Ver versión de Python
 ```bash
 PYTHONPATH=src firejail --private=.venv python3 -m unittest tests/test_lavadero_custom.py -v
 ```
-
 Esto asegura que tanto la ejecución como las pruebas se hacen en un entorno controlado.
