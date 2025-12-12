@@ -18,7 +18,6 @@ sudo apt install firejail -y
 sudo apt install firetools -y
 ```
 
-
 2. Crear un entorno virtual de Python
 
 ```bash
